@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  
 }
 
 .App-logo {
@@ -35,4 +35,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+header{
+  position: relative;
+  text-align: center;
+  background-color: mediumpurple;
+
+}
+footer{
+  position:absolute ;
+  bottom: 0;
+  text-align: center;
+  background-color: mediumpurple;
+}
+li{
+  list-style-type:none;
 }
